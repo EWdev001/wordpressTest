@@ -1,0 +1,2 @@
+# wordpressTest
+Seima
